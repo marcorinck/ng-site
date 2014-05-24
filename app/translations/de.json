@@ -1,0 +1,9 @@
+{
+	"Noch nicht bezahlt": "Noch nicht bezahlt",
+	"rechnungStatus": {
+		"U": "Bezahlt",
+		"V": "Zahlung durch Versicherung",
+		"Q": "Teilzahlung durch Versicherung",
+		"W": "Bezahlt durch Versicherung"
+	}
+}

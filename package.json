@@ -1,0 +1,19 @@
+{
+  "name": "ng-site",
+  "homepage": "http://github.com/marcorinck/ng-site",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-requirejs": "^0.4.2",
+    "karma": "^0.12.16",
+    "matchdep": "0.3.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "folders": {
+    "build": "dist",
+    "wwwRoot": "app",
+    "testRoot": "test"
+  }
+}
